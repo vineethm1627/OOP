@@ -1,8 +1,8 @@
 # OOP
 Links and resources for strengthening the concepts of Object Oriented Programming [Java and C++]
 
-Love Babbar CheatSheet : [view](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
-
+Love Babbar CheatSheet : [cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
+Love Babbar Video : [video](https://youtu.be/wWejXusF9qU)
 # Links
 
 SNo | Topic | Link | Language |
