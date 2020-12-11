@@ -221,6 +221,34 @@ SNo | Topic | Link | Date Completed |
 1 | Static and Dynamic Binding | [view](https://www.javatpoint.com/static-binding-and-dynamic-binding) | not done |
 2 | Message Passing | [view](https://www.panonit.com/blog/overview-message-passing-object-oriented-programming) | not done |
 3 | C vs C++ vs JAVA | [view](https://www.edureka.co/blog/difference-between-c-c-and-java) | not done |
+4 | Procedural vs OOPs | [view](https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/) | not done |
+5 | Why JAVA is not purely OOB | [view](https://www.geeksforgeeks.org/java-not-purely-object-oriented-language/) | not done |
+6 | Is array primitive or object in JAVA | [view](https://www.geeksforgeeks.org/array-primitive-type-object-java/) | not done |
+7 | Early and late binding | [view](https://stackoverflow.com/questions/10580/what-is-the-difference-between-early-and-late-binding) | not done |
+8 | Default access modifier in class | [view](https://stackoverflow.com/questions/3499572/what-is-the-default-access-modifier-of-a-class) | not done |
+9 | No. of instances for an abstract class | [view](https://www.quora.com/Can-we-create-instance-to-abstract-class) | not done |
+10 | Garbage Collection | [view](https://stackify.com/what-is-java-garbage-collection/) | not done |
+11 | Manipulators | [view](https://www.geeksforgeeks.org/manipulators-in-c-with-examples/) | not done |
+12 | Finally block | [view](https://www.javatpoint.com/finally-block-in-exception-handling) | not done |
+13 | Final Variable | [view](https://www.educative.io/edpresso/what-is-the-final-keyword-in-java) | not done |
+14 | Exception | [view](http://www.iitk.ac.in/esc101/05Aug/tutorial/essential/exceptions/definition.html) | not done |
+15 | Error vs Exception | [view](https://www.quora.com/What-is-the-difference-between-error-and-an-exception) | not done |
+16 | Exception Handling | [view](https://beginnersbook.com/2013/04/try-catch-in-java/) | not done |
+17 | Finalize method in JAVA | [view](https://www.javatpoint.com/java-object-finalize-method) | not done |
+18 | Tokens | [view](https://www.geeksforgeeks.org/cc-tokens/) | not done |
+19 | Ternary Operator | [view](https://www.freecodecamp.org/news/c-ternary-operator/) | not done |
+20 | Enum | [view](https://www.geeksforgeeks.org/enumeration-enum-c/) | not done |
+21 | Design Patterns | [view](https://www.javatpoint.com/singleton-design-pattern-in-java) | not done |
+22 | Using struct vs class | [view](https://stackoverflow.com/questions/85553/when-should-i-use-a-struct-instead-of-a-class) | not done |
+23 | Cohesion vs Coupling | [view](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling) | not done |
+
+```
+Is it possible for a class to inherit the constructor of its base class ? 
+super keyword
+order of constructor and destructor calling sequence in case of various inheritance schemes.
+Singleton pattern example.
+
+```
 
 
 
