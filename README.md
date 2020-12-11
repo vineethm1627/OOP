@@ -202,3 +202,18 @@ How to achieve :
   1) C++  --> Access specifiers and header files
   2) JAVA --> Interfaces and Abstract classes
 ```
+
+## Design Interview Questions 
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | Design a hashmap | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/hash_table/hash_map.ipynb) | not done |
+2 | Design a LRU cache | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/lru_cache/lru_cache.ipynb) | not done |
+3 | Design a Call Center | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/call_center/call_center.ipynb) | not done |
+4 | Design a deck of cards | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb) | not done |
+5 | Design a parking lot | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb) | not done |
+6 | Design an online chat | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb) | not done |
+
+
+
+
