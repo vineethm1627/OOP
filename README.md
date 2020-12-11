@@ -125,6 +125,10 @@ SNo | Topic | Link | Date Completed |
 11 | Pure Virtual Function | [view](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/) | not done |
 12 | Pure Virtual Destructor | [view](https://stackoverflow.com/questions/1219607/why-do-we-need-a-pure-virtual-destructor-in-c) | not done |
 
+## Polymorphism is categorised into 2 types : 
+- Function / Operator Overloading
+- Function Overriding
+
 ## Function / Operator Overloading
 
 SNo | Topic | Link | Date Completed | 
@@ -134,3 +138,37 @@ SNo | Topic | Link | Date Completed |
 3 | Operators that cannot be overloaded in C++ | [view](https://www.tutorialspoint.com/operators-that-cannot-be-overloaded-in-cplusplus) | not done |
 
 `Note : Function Overriding is also called run-time Polymorphism.`
+
+## 5 Types of Inheritance 
+
+- Single
+- Mutliple
+- Hierarchical
+- Multilevel
+- Hybrid / Virtual
+
+## Inheritance
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | What is Inheritance ? | [view](https://www.javatpoint.com/inheritance-in-java) | not done |
+2 | Need of Inheritance | [view](https://www.youth4work.com/Talent/Core-Java/Forum/121637-what-is-the-need-of-inheritance) | not done |
+3 | Can OOP exist without Inheritance ? | [view](https://yourbasic.org/golang/inheritance-object-oriented/) | not done |
+4 | Types of Inheritance | [view](https://www.studytonight.com/cpp/types-of-inheritance.php) | not done |
+5 | Real life examples of Multiple Inheritance | [view](https://www.quora.com/What-are-the-real-world-examples-of-multiple-inheritance-in-C++) | not done |
+6 | Limitations of Inheritance | [view](https://practice.geeksforgeeks.org/problems/what-are-advantages-and-disadvantages-of-using-inheritance) | not done |
+7 | Sealed Modifier | [view](https://www.c-sharpcorner.com/interview-question/what-is-sealed-modifiers) | not done |
+8 | Calling base method without creating instance | [view](https://stackoverflow.com/questions/10173827/how-to-invoke-parent-class-method-without-creating-object-of-it) | not done |
+9 | new vs override | [view](https://stackoverflow.com/questions/6576206/what-is-the-difference-between-the-override-and-new-keywords-in-c) | not done |
+10 | Why JAVA doesn't support Multiple Inheritance | [view](https://stackoverflow.com/questions/2515477/why-is-there-no-multiple-inheritance-in-java-but-implementing-multiple-interfac) | not done |
+11 | Dreaded diamond in Multiple Inheritance | [view](https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java) | not done |
+12 | Object Slicing | [view](https://stackoverflow.com/questions/274626/what-is-object-slicing) | not done |
+13 | Hide base class methods in JAVA | [view](https://stackoverflow.com/questions/2589146/overload-and-hide-methods-in-java) | not done |
+14 | Does overloading work with Inheritance | [view](https://www.geeksforgeeks.org/does-overloading-work-with-inheritance/) | not done |
+15 | Polymorphism vs Inheritance | [view](https://www.geeksforgeeks.org/difference-between-inheritance-and-polymorphism/) | not done |
+16 | Generalization vs Aggregation vs Composition | [view](https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/) | not done |
+17 | Friend Function / Class | homework | not done |
+18 | Local Class, nested Class | homework | not done | 
+19 | Simulating Final Class | homework | not done | 
+
+```Note: If class A inherits from class B, then what all are inherited from parent class and size calculation. Explore all possible combinations```
