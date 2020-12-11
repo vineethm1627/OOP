@@ -101,6 +101,29 @@ SNo | Topic | Link | Date Completed |
 8 | const | [view](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java) | not done |
 9 | super | [view](https://www.javatpoint.com/super-keyword) | not done |
 
+## Features of OOPs :
+
+- Polymorphism
+- Inheritance
+- Encapsulation
+- Abstraction
+
+## Polymorphism
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | What is Polymorphism ? | [view](https://www.javatpoint.com/runtime-polymorphism-in-java) | not done |
+2 | Need of Polymorphism ? | [view](https://stackoverflow.com/questions/11064409/why-to-use-polymorphism) | not done |
+3 | Function / Operator Overloading | [view](https://www.javatpoint.com/cpp-overloading) | not done |
+4 | Function Overriding | [view](https://www.javatpoint.com/runtime-polymorphism-in-java) | not done |
+5 | Virtual Function | [view](https://www.javatpoint.com/cpp-virtual-function) | not done |
+6 | Virtual Class | [view](https://www.geeksforgeeks.org/virtual-base-class-in-c/) | not done |
+7 | Derived Class | [view](https://www.techopedia.com/definition/3780/derived-class) | not done |
+8 | Can Virtual Function be private ? | [view](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/) | not done |
+9 | Inline Virtual Function | [view](https://stackoverflow.com/questions/733737/are-inline-virtual-functions-really-a-non-sense) | not done |
+10 | Abstract Class | [view](https://www.javatpoint.com/abstract-class-in-java) | not done |
+11 | Pure Virtual Function | [view](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/) | not done |
+12 | Pure Virtual Destructor | [view](https://stackoverflow.com/questions/1219607/why-do-we-need-a-pure-virtual-destructor-in-c) | not done |
 
 
 
