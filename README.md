@@ -214,6 +214,13 @@ SNo | Topic | Link | Date Completed |
 5 | Design a parking lot | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb) | not done |
 6 | Design an online chat | [view](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb) | not done |
 
+## Miscellaneous 
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | Static and Dynamic Binding | [view](https://www.javatpoint.com/static-binding-and-dynamic-binding) | not done |
+2 | Message Passing | [view](https://www.panonit.com/blog/overview-message-passing-object-oriented-programming) | not done |
+3 | C vs C++ vs JAVA | [view](https://www.edureka.co/blog/difference-between-c-c-and-java) | not done |
 
 
 
