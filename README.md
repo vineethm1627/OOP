@@ -12,7 +12,7 @@ SNo | Topic | Link | Language |
 1 | Virtual Functions | [view](https://www.geeksforgeeks.org/virtual-function-cpp/) | C++ |
 2 | Polymorphism | [view](https://www.geeksforgeeks.org/polymorphism-in-c/) | C++ |
 
-## Getting Started Resources
+## Resources
 
 SNo | Language | Link |
 ----|----------|------|
@@ -67,4 +67,16 @@ SNo | Topic | Link | Date Completed |
 6 | Virtual Copy Constructor | [view](https://www.tutorialspoint.com/virtual-copy-constructor-in-cplusplus) | not done |
 7 | Constructor vs member functions | [view](https://iq.opengenus.org/constructor-cpp/) | not done |
 8 | Constructor Overloading | [view](https://stackoverflow.com/questions/37517522/why-would-you-need-to-use-more-than-one-constructor) | not done |
+
+## Destructor
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | Private Destructor | [view](https://www.geeksforgeeks.org/private-destructor/) | not done |
+2 | Virtual Destructor | [view](https://www.geeksforgeeks.org/virtual-destructor/) | not done |
+3 | Pure Virtual Destructor | [view](https://www.geeksforgeeks.org/pure-virtual-destructor-c/) | not done |
+4 | Destructor vs member functions | [view](https://www.tutorialspoint.com/destructors-in-cplusplus) | not done |
+5 | Multiple Destructors in one class ? | [view](https://stackoverflow.com/questions/21934810/why-a-class-has-only-one-destructor/21934951) | not done |
+6 | When to write user defined Destructor ? | [view](https://stackoverflow.com/questions/22491174/when-do-we-need-to-define-destructors) | not done |
+7 | Can a Destructor be virtual ? | [view](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) | not done |
 
