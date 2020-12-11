@@ -172,3 +172,17 @@ SNo | Topic | Link | Date Completed |
 19 | Simulating Final Class | homework | not done | 
 
 ```Note: If class A inherits from class B, then what all are inherited from parent class and size calculation. Explore all possible combinations```
+
+## Encapsulation
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | What is Encapsulation ? | [view](https://www.javatpoint.com/encapsulation) | not done |
+2 | Advantages of Encapsulation | [view](https://www.javatpoint.com/q/7216/use-of-encapsulation-in-java) | not done |
+3 | How to achieve Encapsulation | [view](https://www.quora.com/How-do-we-achieve-encapsulation-in-java) | not done |
+4 | Code / Implementation of Encapsulation | [view](https://beginnersbook.com/2013/05/encapsulation-in-java/) | not done |
+5 | Real world example of Encapsulation | [view](https://www.sitesbay.com/java/java-encapsulation) | not done |
+
+`Encapsulation is the combination of Data hiding and Abstraction`
+
+
