@@ -185,4 +185,20 @@ SNo | Topic | Link | Date Completed |
 
 `Encapsulation is the combination of Data hiding and Abstraction`
 
+## Abstraction
 
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | What is Abstraction ? | [view](https://www.javatpoint.com/javascript-oops-abstraction) | not done |
+2 | When to Abstraction ? | homework | not done |
+3 | How to achieve Abstraction ? | [view](https://www.javatpoint.com/how-to-achieve-abstraction-in-java) | not done |
+4 | Encapsulation vs Abstraction | [view](https://stackoverflow.com/questions/12072980/encapsulation-vs-abstraction-real-world-example) | not done |
+5 | Interface vs Abstract classes in JAVA | [view](https://www.javatpoint.com/difference-between-abstract-class-and-interface) | not done |
+
+```
+Data abstraction is a way of hiding the implementation details and showing only the functionality to the users.
+
+How to achieve : 
+  1) C++  --> Access specifiers and header files
+  2) JAVA --> Interfaces and Abstract classes
+```
