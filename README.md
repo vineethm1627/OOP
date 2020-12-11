@@ -80,3 +80,27 @@ SNo | Topic | Link | Date Completed |
 6 | When to write user defined Destructor ? | [view](https://stackoverflow.com/questions/22491174/when-do-we-need-to-define-destructors) | not done |
 7 | Can a Destructor be virtual ? | [view](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) | not done |
 
+## Objects
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | difference btw Class and Object| [view](https://www.javatpoint.com/difference-between-object-and-class) | not done |
+2 | Real world Analogy btw Class and Object | [view](https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1) | not done |
+
+## Important Keywords
+
+SNo | Topic | Link | Date Completed | 
+----|-------|------|----------------|
+1 | static | [view](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword) | not done | 
+2 | virtual | [view](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used) | not done |
+3 | abstract | [view](https://www.tutorialspoint.com/abstract-keyword-in-Java) | not done |
+4 | final | [view](https://www.javatpoint.com/final-keyword) | not done |
+5 | explicit | [view](https://www.geeksforgeeks.org/g-fact-93/) | not done |
+6 | this | [view](https://www.javatpoint.com/this-keyword) | not done |
+7 | new | [view](https://www.javatpoint.com/new-keyword-in-java) | not done |
+8 | const | [view](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java) | not done |
+9 | super | [view](https://www.javatpoint.com/super-keyword) | not done |
+
+
+
+
